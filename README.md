@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+Live Site Preview:  https://main--franklin--davenichols-dhls.hlx.page/
+Live Site:  https://main--franklin--davenichols-dhls.hlx.live/
 
 ## Installation
 
